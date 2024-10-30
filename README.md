@@ -24,4 +24,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fly1ngl3xmi&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fly1ngl3xmi&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fly1ngl3xmi&layout=compact&theme=tokyonight)
