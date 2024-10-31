@@ -1,9 +1,10 @@
+<div align="center">
+
 [![header](https://raw.githubusercontent.com/Fly1ngL3xmi/fly1ngl3xmi/refs/heads/main/assets/header.png)](https://github.com/Fly1ngL3xmi)
 
+## My name is FlyingLexmi, and I’m an active Minecraft player since 2022. You can meet me on servers 0b0t and 2b2t.org.ru
 
-
-## My name is FlyingLexmi, and I’m active minecraft player since 2022. You can meet me on servers 0b0t and 2b2t.org
-
+### coha clan and masons 3b3t member
 
 ### languages and tools
 
@@ -14,14 +15,16 @@
 ![css](https://img.shields.io/badge/css-purple?style=for-the-badge&logo=css3)
 ![sql](https://img.shields.io/badge/sql-purple?style=for-the-badge&logo=mysql)
 
-
 ### follow me
 
-![Telegrma](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)
-![Discord](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=Discord)
-![youtube](https://img.shields.io/badge/youtube-blue?style=for-the-badge&logo=youtube)
+![Telegram](https://img.shields.io/badge/telegram-3361ff?style=for-the-badge&logo=telegram)
+![Discord](https://img.shields.io/badge/discord-630cb9?style=for-the-badge&logo=Discord)
+![YouTube](https://img.shields.io/badge/youtube-df0000?style=for-the-badge&logo=youtube)
 
+### stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fly1ngl3xmi&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fly1ngl3xmi&layout=compact&theme=tokyonight)
+
+</div>
