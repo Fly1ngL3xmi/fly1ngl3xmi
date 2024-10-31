@@ -4,6 +4,9 @@
 
 ## My name is FlyingLexmi, and I’m an active Minecraft player since 2022. You can meet me on servers 0b0t and 2b2t.org.ru
 
+[![skin]()]
+
+
 ### coha clan and masons 3b3t member
 
 ### languages and tools
